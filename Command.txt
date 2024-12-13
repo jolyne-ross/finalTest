@@ -1,0 +1,5 @@
+git init
+git add Myfile.txt
+git status
+git add ./info/*
+git config user.name "jolyne_cp390_test_INFO"
